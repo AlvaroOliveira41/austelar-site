@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-gray-900 text-white p-8">
-      <h1 className="text-10xl font-bold text-center mb-16">Bem-vindo a Austelar</h1>
+      <h1 className="text-2xl font-bold text-center mb-16">Bem-vindo a Austelar</h1>
       <p className="text-2xl text-center max-w-2xl mb-16">
         Se estás cansado da incompetência e insensibilidade dos governantes do seu país, faça como eu: não perca tempo lutando contra o sistema corrompido, mude-se para <strong>Austelar</strong>.
       </p>

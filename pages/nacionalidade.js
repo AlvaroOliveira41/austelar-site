@@ -1,6 +1,7 @@
 export default function Nacionalidade() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white p-10">
+      <img src="/house-3133771.jpg" alt="Residência austelar" className="w-full max-h-[500px] object-cover rounded-xl mb-10" />
       <h1 className="text-5xl font-bold text-center mb-8">Como Adquirir a Nacionalidade Austelar</h1>
       <div className="max-w-4xl text-lg space-y-6">
         <p>

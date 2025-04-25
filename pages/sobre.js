@@ -1,6 +1,7 @@
 export default function Sobre() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center bg-black text-white p-10">
+      <img src="/duisburg-4609365.jpg" alt="Indústria moderna em Austelar" className="w-full max-h-[500px] object-cover rounded-xl mb-10" />
       <h1 className="text-5xl font-bold text-center mb-8">Sobre Austelar</h1>
       <div className="max-w-4xl text-lg space-y-6">
         <p>
